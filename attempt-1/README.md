@@ -15,3 +15,5 @@ I.E.
       - __snapshots__
 
 3. This approach will help to un-blur the lines between what should be a dumb component, vs what should be a smart component. Most of the logic will be handled at the organism level, and we should attempt to leave any thing smaller than that dumb components that have no idea of brand/company logic
+
+4. while I think that storybook is a great way to document, I also think that adding more .md files to document features, components, would be amazing. I added .md files ot explain my thoughts in some of the folders here and I also think this will sale well to keep our code well documented.
