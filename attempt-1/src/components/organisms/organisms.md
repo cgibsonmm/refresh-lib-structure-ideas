@@ -15,3 +15,6 @@ Let's say I have an e-commerce website and we're on the product page. This page 
 Our Navbar organism is made up of our Search molecule that we made earlier, a Navigation molecule, and a Logo atom. In this particular instance, our organism doesn't need to handle any business logic. Organisms, when combined, can make up templates and pages which can manage any business logic and state for us.
 
 --- Taken from [Thinking About React, Atomically ⚛](https://medium.com/@wheeler.katia/thinking-about-react-atomically-608c865d2262)
+
+
+Organisms are assemblies of molecules functioning together as a unit. These relatively complex structures can range from single-celled organisms all the way up to incredibly sophisticated organisms like human beings.

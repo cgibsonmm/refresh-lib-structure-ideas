@@ -14,3 +14,6 @@ Let’s say that we want to make a search module with our new Button component a
 ![alt text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*cTWJJbrAR4-k1T2Xsq7CTg.jpeg)
 
 --- Taken from [Thinking About React, Atomically ⚛](https://medium.com/@wheeler.katia/thinking-about-react-atomically-608c865d2262)
+
+
+Molecules are groups of two or more atoms held together by chemical bonds. These combinations of atoms take on their own unique properties, and become more tangible and operational than atoms.

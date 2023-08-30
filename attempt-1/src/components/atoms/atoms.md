@@ -14,3 +14,6 @@ This is what makes it an atom. It's a small, contained, and simple component of 
 
 
 --- Taken from [Thinking About React, Atomically ⚛](https://medium.com/@wheeler.katia/thinking-about-react-atomically-608c865d2262)
+
+
+Atoms are the basic building blocks of all matter. Each chemical element has distinct properties, and they can't be broken down further without losing their meaning. (Yes, it's true atoms are composed of even smaller bits like protons, electrons, and neutrons, but atoms are the smallest functional unit.)

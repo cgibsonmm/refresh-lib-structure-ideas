@@ -4,7 +4,7 @@ A lot of ideas here come from this medium article [thinking-about-react-atomical
 
 ## Thoughts
 
-1. File/folder naming convention, only folders that have a direct decendent that renders a JSX.element, test, or render a JSX.element should be capitalized all others should be lower case
+1. File/folder naming convention, only folders that have a direct descendant that renders a JSX.element, test, or render a JSX.element should be capitalized all others should be lower case
 
 2. Each JSX.element should be contained in it's own directory, this seems like it could be overkill but, when you think about the fact that each component should have it's own story, tests, and snapshot, this will help to clean up.
 I.E.
