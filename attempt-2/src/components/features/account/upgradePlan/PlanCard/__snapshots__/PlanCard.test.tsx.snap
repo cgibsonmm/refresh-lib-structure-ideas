@@ -1,0 +1,73 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the correct content 1`] = `
+<DocumentFragment>
+  <div
+    class="plan-card MuiBox-root css-1274504"
+  >
+    <div
+      class="MuiBox-root css-15p9n5u"
+    />
+    <div>
+      <h2
+        class="MuiTypography-root MuiTypography-h2 css-z9vhew-MuiTypography-root"
+      >
+        Starter
+      </h2>
+      <p
+        class="MuiTypography-root MuiTypography-body2 css-lj764l-MuiTypography-root"
+      >
+        Starting small and simple
+      </p>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-d886p9-MuiTypography-root"
+    >
+      <span>
+        100 reports
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-body1 css-r1ig40-MuiTypography-root"
+      >
+        /mo
+      </span>
+    </p>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+    />
+    <div>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1gn6kd-MuiTypography-root"
+      >
+        <span
+          class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+        >
+          $29.99
+        </span>
+        <span
+          class="MuiTypography-root MuiTypography-body1 css-mquo0y-MuiTypography-root"
+        >
+          /mo
+        </span>
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-14nz9tk-MuiTypography-root"
+      >
+        <span>
+          $0.33 per report
+        </span>
+      </p>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-mkazzp-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      Upgrade plan
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the correct content 1`] = `
+<DocumentFragment>
+  <div
+    class="limit-reached MuiBox-root css-b55jur"
+  >
+    <div
+      class="MuiBox-root css-0"
+    >
+      <div
+        class="MuiBox-root css-q2map3"
+      >
+        <div
+          class="MuiBox-root css-rvvazp"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-h1 css-xlu8vr-MuiTypography-root"
+          >
+            Power through your limit?
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-h1 css-1s6zrpn-MuiTypography-root"
+          >
+            Reach out to keep the momentum going!
+          </p>
+        </div>
+        <h2
+          class="MuiTypography-root MuiTypography-h2 css-14yvy03-MuiTypography-root"
+        >
+          We offer customized solutions to match your needs
+        </h2>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-1sbu2i7-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Contact us now
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-8qzsz8"
+    >
+      <img
+        alt="Limit reached"
+        src="https://via.placeholder.com/1142x839"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

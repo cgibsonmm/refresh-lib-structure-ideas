@@ -1,0 +1,331 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the correct content 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <div
+      class="MuiBox-root css-1l14s7c"
+    >
+      <h1
+        class="MuiTypography-root MuiTypography-h1 css-xlu8vr-MuiTypography-root"
+      >
+        Unlock more reports and lower your cost per report
+      </h1>
+      <h2
+        class="MuiTypography-root MuiTypography-h2 css-14yvy03-MuiTypography-root"
+      >
+        Select a new plan and expand your search capabilities
+      </h2>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-9kxc8q-MuiTypography-root"
+      >
+        Your current plan is 
+        <span
+          class="MuiTypography-root MuiTypography-body1 css-1r8nnji-MuiTypography-root"
+        >
+          Starter
+        </span>
+         and includes 
+        <span
+          class="MuiTypography-root MuiTypography-body1 css-1r8nnji-MuiTypography-root"
+        >
+          100 report credits ($0.27 per report)
+        </span>
+      </p>
+    </div>
+    <div
+      class="MuiBox-root css-fmj022"
+    >
+      <div
+        class="plan-card MuiBox-root css-1274504"
+      >
+        <div
+          class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-i6f8j9-MuiChip-root"
+        >
+          <span
+            class="MuiChip-label MuiChip-labelSmall css-wjsjww-MuiChip-label"
+          >
+            29% Savings
+          </span>
+        </div>
+        <div>
+          <h2
+            class="MuiTypography-root MuiTypography-h2 css-z9vhew-MuiTypography-root"
+          >
+            Standard
+          </h2>
+          <p
+            class="MuiTypography-root MuiTypography-body2 css-lj764l-MuiTypography-root"
+          >
+            Double your search capacity
+          </p>
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-d886p9-MuiTypography-root"
+        >
+          <span>
+            200 reports
+          </span>
+          <span
+            class="MuiTypography-root MuiTypography-body1 css-r1ig40-MuiTypography-root"
+          >
+            /mo
+          </span>
+        </p>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+        />
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gn6kd-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              $36.58
+            </span>
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-mquo0y-MuiTypography-root"
+            >
+              /mo
+            </span>
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-14nz9tk-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              29% savings, 
+            </span>
+            <span>
+              $0.19 per report
+            </span>
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-mkazzp-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Upgrade plan
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="plan-card most-popular MuiBox-root css-1274504"
+      >
+        <div
+          class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-122ex86-MuiChip-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiChip-icon MuiChip-iconSmall MuiChip-iconColorInherit css-i4bv87-MuiSvgIcon-root"
+            data-testid="StarIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+            />
+          </svg>
+          <span
+            class="MuiChip-label MuiChip-labelSmall css-wjsjww-MuiChip-label"
+          >
+            Most popular
+          </span>
+        </div>
+        <div
+          class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-i6f8j9-MuiChip-root"
+        >
+          <span
+            class="MuiChip-label MuiChip-labelSmall css-wjsjww-MuiChip-label"
+          >
+            40% Savings
+          </span>
+        </div>
+        <div>
+          <h2
+            class="MuiTypography-root MuiTypography-h2 css-z9vhew-MuiTypography-root"
+          >
+            Premium
+          </h2>
+          <p
+            class="MuiTypography-root MuiTypography-body2 css-lj764l-MuiTypography-root"
+          >
+            Your premium reports package
+          </p>
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-d886p9-MuiTypography-root"
+        >
+          <span>
+            400 reports
+          </span>
+          <span
+            class="MuiTypography-root MuiTypography-body1 css-r1ig40-MuiTypography-root"
+          >
+            /mo
+          </span>
+        </p>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+        />
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gn6kd-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              $63.99
+            </span>
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-mquo0y-MuiTypography-root"
+            >
+              /mo
+            </span>
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-14nz9tk-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              40% savings, 
+            </span>
+            <span>
+              $0.16 per report
+            </span>
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-mkazzp-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Upgrade plan
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="plan-card MuiBox-root css-1274504"
+      >
+        <div
+          class="MuiChip-root MuiChip-filled MuiChip-sizeSmall MuiChip-colorDefault MuiChip-filledDefault css-i6f8j9-MuiChip-root"
+        >
+          <span
+            class="MuiChip-label MuiChip-labelSmall css-wjsjww-MuiChip-label"
+          >
+            55% Savings
+          </span>
+        </div>
+        <div>
+          <h2
+            class="MuiTypography-root MuiTypography-h2 css-z9vhew-MuiTypography-root"
+          >
+            Professional
+          </h2>
+          <p
+            class="MuiTypography-root MuiTypography-body2 css-lj764l-MuiTypography-root"
+          >
+            Take your business to the next level
+          </p>
+        </div>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-d886p9-MuiTypography-root"
+        >
+          <span>
+            1000 reports
+          </span>
+          <span
+            class="MuiTypography-root MuiTypography-body1 css-r1ig40-MuiTypography-root"
+          >
+            /mo
+          </span>
+        </p>
+        <hr
+          class="MuiDivider-root MuiDivider-fullWidth css-9mgopn-MuiDivider-root"
+        />
+        <div>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1gn6kd-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              $114.29
+            </span>
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-mquo0y-MuiTypography-root"
+            >
+              /mo
+            </span>
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-14nz9tk-MuiTypography-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-body1 css-ndaqpv-MuiTypography-root"
+            >
+              55% savings, 
+            </span>
+            <span>
+              $0.12 per report
+            </span>
+          </p>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-mkazzp-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Upgrade plan
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1n7s66"
+    >
+      <div
+        class="MuiBox-root css-0"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1vnoz0t-MuiTypography-root"
+        >
+          Need a customized solution?
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-zf8vzv-MuiTypography-root"
+        >
+          Still want more?
+        </p>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-zf8vzv-MuiTypography-root"
+        >
+          Get a customized plan for your needs!
+        </p>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-root MuiButton-contained MuiButton-containedSuccess MuiButton-sizeLarge MuiButton-containedSizeLarge css-1sbu2i7-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="button"
+      >
+        Contact us now
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

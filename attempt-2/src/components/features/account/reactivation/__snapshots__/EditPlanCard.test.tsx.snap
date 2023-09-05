@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditPlanCard renders 1`] = `
+<DocumentFragment>
+  <div
+    class="css-kksclf"
+    role="button"
+  >
+    <span
+      class="MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root MuiCheckbox-root MuiCheckbox-colorPrimary MuiCheckbox-root MuiCheckbox-colorPrimary css-tque03-MuiButtonBase-root-MuiCheckbox-root"
+    >
+      <input
+        class="PrivateSwitchBase-input css-1m9pwf3"
+        data-indeterminate="false"
+        type="checkbox"
+      />
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+        data-testid="CheckBoxOutlineBlankIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"
+        />
+      </svg>
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </span>
+    <div
+      class="css-1lxwves"
+    >
+      <h3
+        class="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+      >
+        Basic Plan
+      </h3>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-1pnmrwp-MuiTypography-root"
+      >
+        Includes basic features
+      </p>
+    </div>
+    <div
+      class="css-1ys4hkf"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h2 css-1sra7t5-MuiTypography-root"
+      >
+        $100
+      </h2>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-17hfm4p-MuiTypography-root"
+      >
+        Per month plus
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-17hfm4p-MuiTypography-root"
+      >
+        applicable sales tax
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
